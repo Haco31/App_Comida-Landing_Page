@@ -268,12 +268,12 @@ grid-template-columns: 1fr;
 
 **Harol Contreras**
 
-Proyecto desarrollado como parte de su formación en desarrollo web 🚀
+Proyecto desarrollado como parte de MI formación en desarrollo web 🚀
 
 ---
 
 # ⭐ Conclusión
 
-Este proyecto representa un paso importante hacia convertirse en un desarrollador **Frontend profesional**, aplicando conceptos modernos y construyendo interfaces reales similares a aplicaciones como Uber Eats o Rappi.
+Este proyecto representa un paso importante hacia convertirMe en un desarrollador **Frontend profesional**, aplicando conceptos modernos y construyendo interfaces reales similares a aplicaciones como Uber Eats o Rappi.
 
 ---
