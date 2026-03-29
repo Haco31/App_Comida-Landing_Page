@@ -431,6 +431,10 @@ footer {
   .panel-navegacion {
     padding: 40px 100px;
   }
+
+  .restaurantes-favoritos {
+    padding: 0 50px;
+  }
 }
 
 @media (min-width: 1024px) {
